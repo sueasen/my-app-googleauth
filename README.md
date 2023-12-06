@@ -2,8 +2,8 @@
 
 ## Firebase 定義情報を更新
 
-src/contexts/AuthContext.js の firebaseConfig(14 行目～) を更新する
-Firebase から取得した firebaseConfig の値を使用する
+- src/contexts/AuthContext.js の firebaseConfig(14 行目～) を更新する
+- Firebase から取得した firebaseConfig の値を使用する
 
 ```
 const firebaseConfig = {

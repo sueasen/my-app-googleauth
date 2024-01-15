@@ -19,7 +19,7 @@ const firebaseConfig = {
 ## インストール
 
 ```
-npm i react-scripts
+npm i
 ```
 
 ## 実行
